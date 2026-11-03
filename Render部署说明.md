@@ -1,6 +1,6 @@
 # PlotSeed：GitHub 与 Render 部署
 
-本包为精简源码，不含 Netlify、Docker、Caddy、旧部署说明或真实密钥。尚未完成 Render 上线。
+本包完成 Render 上线。
 
 ## 上传 GitHub
 
